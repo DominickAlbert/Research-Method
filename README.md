@@ -6,9 +6,9 @@ Second folder called "Indonesian" will contain the code, the dataset, the stopwo
 Everything needed to run the code will be there.
 
 Library Used:
-pandas
-nltk
-gensim
-sklearn
-numpy
-nlpaug
+- pandas
+- nltk
+- gensim
+- sklearn
+- numpy
+- nlpaug
